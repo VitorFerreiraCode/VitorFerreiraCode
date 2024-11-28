@@ -31,20 +31,22 @@
 </p>
 
 ---
+### 👨‍💻 My Dev Profile
+![Dev Card](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=typescript&bio=Junior%20Developer)
 
-### 🏆 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorFerreiraCode&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorFerreiraCode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+### 📊 Most Used Languages
+![Vitor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerreiraCode&layout=compact&theme=highcontrast)
 
 ---
 
-### 🖼️ Fun Corner:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VitorFerreiraCode/VitorFerreiraCode/main/assets/coding.svg" alt="coding animation" width="300" />
-</p>
-
+### 🚀 Profile Cards (10)
+![Profile 1](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=python&bio=Junior%20Developer)
+![Profile 2](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=java&bio=Junior%20Developer)
+![Profile 3](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=javascript&bio=Junior%20Developer)
+![Profile 4](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=react&bio=Junior%20Developer)
+![Profile 5](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=typescript&bio=Junior%20Developer)
+![Profile 6](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=html5&bio=Junior%20Developer)
+![Profile 7](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=css3&bio=Junior%20Developer)
+![Profile 8](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=node.js&bio=Junior%20Developer)
+![Profile 9](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=github&bio=Junior%20Developer)
+![Profile 10](https://github-readme-devcard.vercel.app/api/card?username=VitorFerreiraCode&theme=default&logo=java&bio=Junior%20Developer)
