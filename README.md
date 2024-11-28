@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/VitorFerreiraCode">Vitor Ferreira Viana</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Systems+Information+Student;Full-stack+Developer+in+the+Making;Passionate+about+Learning+and+Teaching" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Systems+Information+Student;Passionate+about+Learning+and+Teaching" alt="Typing SVG" />
 </p>
 
 ---
