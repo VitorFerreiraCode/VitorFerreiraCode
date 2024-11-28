@@ -12,7 +12,7 @@
 - 📚 I love exploring topics like **study cycles, learning strategies, and time management**.
 - 💡 I’m passionate about creating innovative tools for **education and productivity**.
 - ✨ Fun fact: My favorite superpower is my **will to learn**! 🚀
-- 🌍 **Languages:**
+### 🌍 **Languages:**
 - 🗽 English: Intermediate  
 - 🇫🇷 French: Intermediate
 
