@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me:
 - 🎓 I’m a **Systems Information Student** at UTFPR - Francisco Beltrão.
-- 🌱 I’m currently diving deep into **Web Development (React, Node.js, MySQL)**.
+- 🌱 I’m currently diving deep into **Web Development (PHP and MySQL)**.
 - 📚 I love exploring topics like **study cycles, learning strategies, and time management**.
 - 💡 I’m passionate about creating innovative tools for **education and productivity**.
 - ✨ Fun fact: My favorite superpower is my **will to learn**! 🚀
@@ -23,7 +23,7 @@
 
 ### 🔧 Technologies & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,php,nodejs,mysql,github,figma" alt="skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,mysql,github,figma" alt="skills">
 </p>
 
 ---
