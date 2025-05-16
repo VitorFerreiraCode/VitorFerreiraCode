@@ -24,7 +24,7 @@
 
 ### 🔧 Technologies & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,java,angular,mysql,github,figma" alt="skills">
+  <img src="https://skillicons.dev/icons?i=php,java,angular,react,mysql,postgres,git,figma" alt="skills">
 </p>
 
 ---
