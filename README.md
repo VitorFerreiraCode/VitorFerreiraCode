@@ -7,8 +7,8 @@
 ---
 
 ### 🙋‍♂️ About Me:
-- 🎓 I’m a **Systems Information Student** at UTFPR - Francisco Beltrão.
-- 🌱 I’m currently diving deep into **Web Development (Quarkus & Angular)**.
+- 🎓 I’m a **Software Engineer Student** at UTFPR - Francisco Beltrão.
+- 🌱 I’m currently diving deep into **Web Development (PHP, MySQL and Tailwind)**.
 ### 🌍 **Languages:**
 - 🗽 English: Intermediate  
 - 🇫🇷 French: Intermediate
@@ -24,7 +24,7 @@
 
 ### 🔧 Technologies & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,ts,js,angular,react,mysql,postgres,git,figma" alt="skills">
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,postgres,git,figma,laravel" alt="skills">
 </p>
 
 ---
