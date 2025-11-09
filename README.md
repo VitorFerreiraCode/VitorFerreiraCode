@@ -17,7 +17,7 @@
 ### 🌍 Languages
 - 🗽 **English:** Intermediate  
 - 🇫🇷 **French:** Intermediate  
-- 🇧🇷 **Portuguese:** Native  
+- 🇧🇷 **Portuguese:** Native
 
 ---
 
