@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Java+%26+Web+Developer;VRaptor+and+Spring+Boot+Explorer;Minecraft+Java+Plugin+Developer;President+at+TypeX+Junior+Enterprise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering+Student;Java+Developer;TypeScript+%26+JavaScript+Builder;PHP+and+SQL+Explorer;Minecraft+Java+Plugin+Developer;President+at+TypeX+Junior+Enterprise" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I'm a **Computer Information Systems student** at the **Federal Technological University of Parana (UTFPR)** and currently the **President** at [@ejTypeX](https://github.com/ejTypeX).
 
-I like building software where logic, architecture, and experience meet. My main path is **web development with Java**, especially backend systems, clean APIs, MVC patterns, and modern architectures. I have also been exploring **VRaptor** in my work, strengthening my understanding of Java web applications beyond the usual stack.
+I like building software where logic, architecture, and experience meet. My main language is **Java**, but I also work with **TypeScript, JavaScript, PHP, SQL, HTML, and CSS** to turn ideas into usable systems.
 
 Outside traditional web apps, I enjoy programming in the **Minecraft Java ecosystem**, creating and studying **plugins, clients, server-side systems, automations, and custom gameplay mechanics**. For me, Minecraft development is a creative lab: networking, events, commands, permissions, performance, UX, and architecture all collide in one very fun place.
 
@@ -27,38 +27,41 @@ Outside traditional web apps, I enjoy programming in the **Minecraft Java ecosys
 ## Current Focus
 
 ```txt
-Java backend         -> Spring Boot, VRaptor, REST APIs, MVC, Clean Architecture
-Frontend            -> Angular, TypeScript, Tailwind CSS, Next.js
-Minecraft Java      -> Plugins, clients, server systems, custom features
-Databases           -> PostgreSQL, MySQL
+Java                -> backend logic, object-oriented design, Minecraft systems
+TypeScript          -> typed frontend logic and modern web interfaces
+JavaScript          -> dynamic web experiences and tooling experiments
+PHP                 -> server-side features and practical web applications
+SQL                 -> data modeling, queries, PostgreSQL and MySQL
+HTML/CSS            -> clean structure, responsive layouts and UI polish
 Leadership          -> TypeX Junior Enterprise, agile delivery, product thinking
 ```
 
 ---
 
-## Tech Stack
+## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,laravel,html,tailwind,mysql,postgres,docker,git,maven" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css,mysql,postgres,docker,git,github,maven" alt="Language and tool icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VRaptor-Java_Web_Framework-38BDF8?style=for-the-badge&logo=java&logoColor=white" alt="VRaptor" />
-  <img src="https://img.shields.io/badge/Minecraft_Java-Plugin_Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Java Plugin Development" />
-  <img src="https://img.shields.io/badge/Clean_Code-Architecture-111827?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Java-main_language-38BDF8?style=for-the-badge" alt="Java main language" />
+  <img src="https://img.shields.io/badge/Minecraft_Java-plugins_and_clients-62B47A?style=for-the-badge" alt="Minecraft Java plugins and clients" />
+  <img src="https://img.shields.io/badge/Clean_Code-daily_goal-111827?style=for-the-badge" alt="Clean Code" />
 </p>
 
 ---
 
 ## What I Like To Build
 
-| Area | What I enjoy |
+| Language / Area | What I enjoy |
 | --- | --- |
-| **Backend** | APIs, authentication, business rules, persistence, domain modeling |
-| **Java Web** | Spring Boot, VRaptor, MVC, clean services, maintainable controllers |
-| **Minecraft Java** | Plugins, clients, commands, events, server features, gameplay systems |
-| **Frontend** | Angular interfaces, component structure, responsive UI, Tailwind styling |
-| **DevOps** | Dockerized environments, deploy experiments, Azure Student Program |
+| **Java** | backend logic, OOP, Minecraft plugins, clients, commands, events |
+| **TypeScript** | typed application logic, scalable frontend code, safer refactors |
+| **JavaScript** | interactive web features, experiments, tooling and automation |
+| **PHP** | practical backend development, web flows and server-side features |
+| **SQL** | schemas, queries, persistence, PostgreSQL and MySQL |
+| **HTML/CSS** | accessible structure, responsive screens, visual polish |
 | **Leadership** | Agile routines, team alignment, technical decision-making |
 
 ---
@@ -74,12 +77,12 @@ Leadership          -> TypeX Junior Enterprise, agile delivery, product thinking
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VitorFerreiraCode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerreiraCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorFerreiraCode&theme=tokyonight" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorFerreiraCode&theme=tokyonight" alt="Repositories per language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorFerreiraCode&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=VitorFerreiraCode&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -94,9 +97,10 @@ public class VitorFerreira {
 
     public void build() {
         study("Software Engineering");
-        create("Web applications with Spring Boot, VRaptor and Angular");
-        explore("Minecraft Java plugins, clients and server-side systems");
-        improve("Clean code, architecture and leadership");
+        codeWith("Java", "TypeScript", "JavaScript", "PHP", "SQL");
+        create("useful web systems and clean developer experiences");
+        explore("Minecraft Java plugins, clients and server-side mechanics");
+        improve("logic, architecture, communication and leadership");
     }
 }
 ```
