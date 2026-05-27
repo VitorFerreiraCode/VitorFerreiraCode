@@ -39,7 +39,7 @@ Leadership          -> TypeX Junior Enterprise, agile delivery, product thinking
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,nextjs,ts,js,php,laravel,html,css,tailwind,mysql,postgres,docker,git,github,maven" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,laravel,html,tailwind,mysql,postgres,docker,git,maven" alt="Tech stack icons" />
 </p>
 
 <p align="center">
