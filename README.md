@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vitorferreiracode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vitor-ferreira-viana-b673ab327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vitorferreiraviana@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/VitorFerreiraCode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -16,11 +16,23 @@
 
 ## About Me
 
-I'm a **Computer Information Systems student** at the **Federal Technological University of Parana (UTFPR)** and currently the **President** at [@ejTypeX](https://github.com/ejTypeX).
+I'm a **Software Engineering student** at the **Federal University of Technology – Paraná (UTFPR)** and currently the **President** at [@ejTypeX](https://github.com/ejTypeX).
 
 I like building software where logic, architecture, and experience meet. My main language is **Java**, but I also work with **TypeScript, JavaScript, PHP, SQL, HTML, and CSS** to turn ideas into usable systems.
 
 Outside traditional web apps, I enjoy programming in the **Minecraft Java ecosystem**, creating and studying **plugins, clients, server-side systems, automations, and custom gameplay mechanics**. For me, Minecraft development is a creative lab: networking, events, commands, permissions, performance, UX, and architecture all collide in one very fun place.
+
+---
+
+## Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [eClass API](https://github.com/VitorFerreiraCode/eclass-v2-backend) · [Web](https://github.com/VitorFerreiraCode/eclass-v2-front) | Multi-institution learning platform. The API uses institution-scoped data access with PostgreSQL Row-Level Security. | NestJS, Fastify, TypeScript, PostgreSQL, Prisma |
+| [Semana Acadêmica](https://github.com/VitorFerreiraCode/semana-academica) | Backend for organizing and managing an academic week. | Backend |
+| [Veenux Framework PHP](https://github.com/VitorFerreiraCode/veenux-framework-php) | PHP framework project for building small applications. | PHP |
+
+I'm also exploring **Minecraft Java plugins and client/server systems**, alongside coursework in Java, object-oriented programming, and software architecture.
 
 ---
 
@@ -45,7 +57,7 @@ Leadership          -> TypeX Junior Enterprise, agile delivery, product thinking
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-main_language-38BDF8?style=for-the-badge" alt="Java main language" />
+  <img src="https://img.shields.io/badge/Java-core_language-38BDF8?style=for-the-badge" alt="Java core language" />
   <img src="https://img.shields.io/badge/Minecraft_Java-plugins_and_clients-62B47A?style=for-the-badge" alt="Minecraft Java plugins and clients" />
   <img src="https://img.shields.io/badge/Clean_Code-daily_goal-111827?style=for-the-badge" alt="Clean Code" />
 </p>
