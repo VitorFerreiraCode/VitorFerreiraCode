@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey, I'm <a href="https://github.com/VitorFerreiraCode">Vitor Ferreira Viana</a>
+  Olá, eu sou o <a href="https://github.com/VitorFerreiraCode">Vitor Ferreira Viana</a>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering+Student;Java+Developer;TypeScript+%26+JavaScript+Builder;PHP+and+SQL+Explorer;Minecraft+Java+Plugin+Developer;President+at+TypeX+Junior+Enterprise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+na+Axdoc;Java+%7C+TypeScript+%7C+SQL;Instrutor+de+oficinas+de+seguran%C3%A7a;Presidente+da+TypeX+Empresa+J%C3%BAnior" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,115 +14,50 @@
 
 ---
 
-## About Me
+## Sobre mim
 
-I'm a **Software Engineering student** at the **Federal University of Technology – Paraná (UTFPR)** and currently the **President** at [@ejTypeX](https://github.com/ejTypeX).
+Sou **estudante de Engenharia de Software** na **Universidade Tecnológica Federal do Paraná (UTFPR)**, **desenvolvedor na Axdoc** e **presidente** da [@ejTypeX](https://github.com/ejTypeX), empresa júnior.
 
-I like building software where logic, architecture, and experience meet. My main language is **Java**, but I also work with **TypeScript, JavaScript, PHP, SQL, HTML, and CSS** to turn ideas into usable systems.
+Gosto de construir software onde lógica, arquitetura e experiência do usuário se encontram. Minha linguagem principal é **Java**, mas também trabalho com **TypeScript, JavaScript, PHP, SQL, HTML e CSS** para transformar ideias em sistemas usados de verdade — hoje tenho clientes reais em produção.
 
-Outside traditional web apps, I enjoy programming in the **Minecraft Java ecosystem**, creating and studying **plugins, clients, server-side systems, automations, and custom gameplay mechanics**. For me, Minecraft development is a creative lab: networking, events, commands, permissions, performance, UX, and architecture all collide in one very fun place.
+Também ministro **oficinas práticas de segurança** (cheats e anticheats, malware), sempre pelo lado **educacional e defensivo**, e programo no ecossistema **Minecraft Java** — plugins, clients e sistemas de servidor.
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
-| Project | What it is | Stack |
+| Projeto | O que é | Stack |
 | --- | --- | --- |
-| [eClass API](https://github.com/VitorFerreiraCode/eclass-v2-backend) · [Web](https://github.com/VitorFerreiraCode/eclass-v2-front) | Multi-institution learning platform. The API uses institution-scoped data access with PostgreSQL Row-Level Security. | NestJS, Fastify, TypeScript, PostgreSQL, Prisma |
-| [Semana Acadêmica](https://github.com/VitorFerreiraCode/semana-academica) | Backend for organizing and managing an academic week. | Backend |
-| [Veenux Framework PHP](https://github.com/VitorFerreiraCode/veenux-framework-php) | PHP framework project for building small applications. | PHP |
-
-I'm also exploring **Minecraft Java plugins and client/server systems**, alongside coursework in Java, object-oriented programming, and software architecture.
+| **sabermais** _(privado)_ | Plataforma de ensino (LMS) multi-instituição: turmas, conteúdo, tarefas, questionários, fórum, notas, frequência, gamificação, IA para professores e alunos e perfil de estudo LASSI. Dados isolados por instituição com Row-Level Security no PostgreSQL. | Next.js, NestJS, Prisma, PostgreSQL |
+| **veenux-coaching-bot** _(privado)_ | Bot do Discord com painel multiempresa usado por coaches de Rocket League para vender aulas: catálogo, carrinho, Pix/Mercado Pago, cupons, planos, agenda de sessões, avaliações e fidelidade. | Next.js, discord.js, Drizzle, PostgreSQL |
+| [bot-discord-IA](https://github.com/VitorFerreiraCode/bot-discord-IA) | Bot que monta o seu servidor do Discord com inteligência artificial a partir de uma conversa no privado, usando a sua própria chave de API (modelos do OpenRouter). | discord.js |
+| [A Guerra Invisível: Cheats vs Anticheats](https://github.com/VitorFerreiraCode/oficina-cheat-e-anticheat) | Oficina da TechWeek 2026: como cheats internal, external, kernel e DMA funcionam e como anticheats os detectam. | HTML, CSS, JS |
+| [Malware: infecção, persistência e roubo de dados](https://github.com/VitorFerreiraCode/oficina-malwares) | Oficina da TechWeek 2026 sobre como malwares agem no Windows e como são detectados, com simulador de infostealer inofensivo. | HTML, CSS, JS, Python |
+| [VNXXRZ Client 1.8.9](https://github.com/VitorFerreiraCode/VNXXRZ-CLIENT-1.8.9) | Client próprio para Minecraft Java 1.8.9. | Java |
 
 ---
 
-## Current Focus
+## Foco atual
 
 ```txt
-Java                -> backend logic, object-oriented design, Minecraft systems
-TypeScript          -> typed frontend logic and modern web interfaces
-JavaScript          -> dynamic web experiences and tooling experiments
-PHP                 -> server-side features and practical web applications
-SQL                 -> data modeling, queries, PostgreSQL and MySQL
-HTML/CSS            -> clean structure, responsive layouts and UI polish
-Leadership          -> TypeX Junior Enterprise, agile delivery, product thinking
+Java        -> lógica de backend, orientação a objetos, sistemas para Minecraft
+TypeScript  -> Next.js, NestJS e aplicações web tipadas de ponta a ponta
+SQL         -> modelagem, PostgreSQL com RLS, MySQL
+Segurança   -> oficinas de cheats/anticheats e malware, sempre defensivas
+IA          -> recursos com LLMs dentro dos produtos (LMS e bots)
+Liderança   -> TypeX Empresa Júnior, entregas ágeis, visão de produto
 ```
 
 ---
 
-## Languages & Tools
+## Linguagens e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css,mysql,postgres,docker,git,github,maven" alt="Language and tool icons" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,php,nextjs,nestjs,nodejs,react,tailwind,prisma,discordjs,html,css,mysql,postgres,docker,git,github,maven" alt="Ícones de linguagens e ferramentas" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-core_language-38BDF8?style=for-the-badge" alt="Java core language" />
-  <img src="https://img.shields.io/badge/Minecraft_Java-plugins_and_clients-62B47A?style=for-the-badge" alt="Minecraft Java plugins and clients" />
-  <img src="https://img.shields.io/badge/Clean_Code-daily_goal-111827?style=for-the-badge" alt="Clean Code" />
-</p>
-
----
-
-## What I Like To Build
-
-| Language / Area | What I enjoy |
-| --- | --- |
-| **Java** | backend logic, OOP, Minecraft plugins, clients, commands, events |
-| **TypeScript** | typed application logic, scalable frontend code, safer refactors |
-| **JavaScript** | interactive web features, experiments, tooling and automation |
-| **PHP** | practical backend development, web flows and server-side features |
-| **SQL** | schemas, queries, persistence, PostgreSQL and MySQL |
-| **HTML/CSS** | accessible structure, responsive screens, visual polish |
-| **Leadership** | Agile routines, team alignment, technical decision-making |
-
----
-
-## Languages
-
-- **Portuguese:** Native
-- **English:** Intermediate
-- **French:** Intermediate
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorFerreiraCode&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorFerreiraCode&theme=tokyonight" alt="Repositories per language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorFerreiraCode&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## Dev Identity
-
-```java
-public class VitorFerreira {
-    private final String university = "UTFPR";
-    private final String role = "President at TypeX Junior Enterprise";
-    private final String mainLanguage = "Java";
-
-    public void build() {
-        study("Software Engineering");
-        codeWith("Java", "TypeScript", "JavaScript", "PHP", "SQL");
-        create("useful web systems and clean developer experiences");
-        explore("Minecraft Java plugins, clients and server-side mechanics");
-        improve("logic, architecture, communication and leadership");
-    }
-}
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VitorFerreiraCode&style=flat-square&color=38BDF8" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>"Code is craft, architecture is intention, and games are one of the best ways to learn both."</i>
+  <img src="https://img.shields.io/badge/Java-linguagem_principal-38BDF8?style=for-the-badge" alt="Java linguagem principal" />
+  <img src="https://img.shields.io/badge/Minecraft_Java-plugins_e_clients-62B47A?style=for-the-badge" alt="Minecraft Java plugins e clients" />
+  <img src="https://img.shields.io/badge/C%C3%B3digo_limpo-meta_di%C3%A1ria-111827?style=for-the-badge" alt="Código limpo" />
 </p>
