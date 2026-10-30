@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+na+Axdoc;Java+%7C+TypeScript+%7C+SQL;Instrutor+de+oficinas+de+seguran%C3%A7a;Presidente+da+TypeX+Empresa+J%C3%BAnior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+na+Axdoc;Java+%7C+TypeScript+%7C+SQL;Instrutor+de+oficinas+de+seguran%C3%A7a;Presidente+da+TypeX+Empresa+J%C3%BAnior" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou **estudante de Engenharia de Software** na **Universidade Tecnológica Federal do Paraná (UTFPR)**, **desenvolvedor na Axdoc** e **presidente** da [@ejTypeX](https://github.com/ejTypeX), empresa júnior.
+Sou **estudante de Sistemas de Informação** na **Universidade Tecnológica Federal do Paraná (UTFPR), campus Francisco Beltrão**, **desenvolvedor na Axdoc** e **presidente** da [@ejTypeX](https://github.com/ejTypeX), empresa júnior.
 
 Gosto de construir software onde lógica, arquitetura e experiência do usuário se encontram. Minha linguagem principal é **Java**, mas também trabalho com **TypeScript, JavaScript, PHP, SQL, HTML e CSS** para transformar ideias em sistemas usados de verdade — hoje tenho clientes reais em produção.
 
